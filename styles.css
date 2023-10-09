@@ -1,0 +1,21 @@
+body {
+    margin:0
+}
+
+.header-all {
+    background-color: #1F2937;
+    padding:20px 100px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.top a {
+    color: #F9FAF8;
+    font-size: 24px;
+    
+} 
