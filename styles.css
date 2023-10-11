@@ -42,7 +42,8 @@ body {
 }
 
 h1 {
-    color: #F9FAF8;    
+    color: #F9FAF8;  
+    margin:0; 
     
 }
 
@@ -52,9 +53,7 @@ h1 {
     
 }
 
-h1 {
-    margin:0;
-}
+
 .top a {
     color: #E5E7EB;
     font-size: 18px;
