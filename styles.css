@@ -181,3 +181,11 @@ h2 {
 #missout {
     font-weight: 900;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
