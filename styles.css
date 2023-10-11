@@ -119,14 +119,17 @@ h2 {
 .quote-section {
     background-color:#E5E7EB ;
     display: flex;
+    justify-content: center;
     
     
 }
 
 .quote-author {
+    max-width: 1000px;;
     margin: 70px;
     display: flex;
     flex-direction: column;
+    
 }
 
 .quote {
@@ -135,6 +138,7 @@ h2 {
     font-style: italic;
     color: #1F2937;
     margin: 0;
+    align-self: center;
 }
 
 
