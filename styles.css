@@ -149,3 +149,35 @@ h2 {
     font-weight: 600;
     margin: 0px;
 }
+
+.signup-section {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.bluebox {
+    margin: 80px;
+    background-color:#3882F6;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    padding: 10px 80px;
+    gap: 15px;
+    
+    
+}
+
+.signup-text {
+    color: #E5E7EB;
+}
+
+.bluebox button {
+    border: solid;
+    border-width: 2px;
+    
+}
+#missout {
+    font-weight: 900;
+}
